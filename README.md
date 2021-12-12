@@ -1,5 +1,5 @@
 # scan4log4j
-Python multithreading script that sends CVE-2021-44228 log4j payload requests to url list
+Python script that sends CVE-2021-44228 log4j payload requests to url list
 
 [VERY BETA]
 
